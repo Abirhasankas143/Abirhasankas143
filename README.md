@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-</AS143YOU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<AS143YOU-ME/AS143YOU ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
