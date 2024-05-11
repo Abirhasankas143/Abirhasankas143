@@ -1,9 +1,6 @@
-- 👋 Hi, I’m README.MD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+README.MD
 
-<AS143YOU-ME/AS143YOU ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+git remote add origin git@github.com:GitHub-AS143YOU/.github.git
+git branch -M main
+git push -u origin main
