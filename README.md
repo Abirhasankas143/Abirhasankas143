@@ -7,7 +7,6 @@
 </body >
 </html >
 
-<!-- 
 from os import path
 import os,base64,zlib,pip,urllib
 os.system('xdg-open https://www.facebook.com/kanokwan.plengien/')
