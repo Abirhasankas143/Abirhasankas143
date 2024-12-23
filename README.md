@@ -1,8 +1,7 @@
-<html >
-<head >
-<link rel="stylesheet" type="text/css" href="styles.css" >
-</head >
-<body >
-<hl > Content of your online store. </hl >
-</body >
-</html >
+<html>
+<head><title>307 Temporary Redirect</title></head>
+<body>
+<center><h1>307 Temporary Redirect</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
