@@ -1,7 +1,4 @@
-<html>
-<head><title>307 Temporary Redirect</title></head>
-<body>
-<center><h1>307 Temporary Redirect</h1></center>
-<hr><center>cloudflare</center>
-</body>
-</html>
+curl \
+  -H "Content-Type: application/json" \
+  -d "{\"contents\":[{\"parts\":[{\"text\":\"Explain how AI works\"}]}]}" \
+  -X POST "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=YOUR_API_KEY"
